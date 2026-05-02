@@ -28,7 +28,3 @@ The **Developer Productivity Hub** is designed to provide engineering teams and 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are always welcome! Feel free to raise a pull request or open an issue.
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
